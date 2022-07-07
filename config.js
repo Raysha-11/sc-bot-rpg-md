@@ -5,7 +5,7 @@ global.tempatnye = JSON.parse(fs.readFileSync('./src/tempatnye.json'))
 global.thumbt = global.img
 global.fsx = 999999999999
 global.kontak = [
-['14157614750', 'AhmdLui 🥶🥶', 'AhmdLui', 'ayonimasangat@gmail.com', true]
+['6283148375193', 'AhmdLui 🥶🥶', 'AhmdLui', 'ayonimasangat@gmail.com', true]
 
 ]
 global.APIs = { // API Prefix
